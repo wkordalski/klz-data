@@ -24,6 +24,7 @@
 
     show heading: cont => {
         set text(size: 13pt)
+        show "Zadanie": set text(fill: rgb("#003a6c"))
         cont
         v(6pt)
     }
