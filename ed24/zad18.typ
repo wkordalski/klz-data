@@ -3,4 +3,5 @@
 
 = Zadanie 18
 
-Wykaż, że dla dowolnej liczby naturalnej $n$ istnieje liczba zapisana (w~systemie dziesiętnym) tylko przy pomocy zer i jedynek, która dzieli się przez $n$.
+Czy można znaleźć $55$ liczb naturalnych dwucyfrowych takich, że wśród nich
+nie ma pary liczb, które sumują się do $100$? Odpowiedź uzasadnij.
