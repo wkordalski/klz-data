@@ -22,7 +22,7 @@
     set text(size: 12pt)
     set par(justify: true)
 
-    show heading: cont => {
+    show heading.where(level: 1): cont => {
         set text(size: 13pt)
         show "Zadanie": set text(fill: rgb("#003a6c"))
         cont
