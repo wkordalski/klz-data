@@ -1,7 +1,9 @@
 #let template(
+    title: [],
     deadline: [],
     doc,
 ) = {
+    set document(title: title)
     set page(paper: "a5", margin: 15mm)
     set text(lang: "pl")
     set par(linebreaks: "optimized")
