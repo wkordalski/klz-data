@@ -1,1 +1,7 @@
-name,shape,color
+name,shape,color,1
+AleMaj,circle,#228B22,3+1
+TymSme,square,#228B22,1
+PioPok,triangle,#228B22,1
+JakMaz,diamond,#228B22,3
+PioSzc,star,#228B22,3
+GalAnonim,pentagon,#228B22,1
