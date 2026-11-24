@@ -8,7 +8,7 @@
     set text(lang: "pl")
     set par(linebreaks: "optimized")
 
-    align(center, text(size: 12pt, weight: "bold")[Kuźniowa Liga Zadaniowa --- 2025/26])
+    align(center, text(size: 12pt, weight: "bold")[Kuźniowa Liga Zadaniowa --- 2026/27])
     set text(size: 10pt)
     line(start: (0%, 0pt), end: (100%, 0pt), stroke: 0.1pt)
 
